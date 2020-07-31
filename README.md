@@ -1,4 +1,4 @@
-# Whoopee[https://whoopee.herokuapp.com/]
+# [Whoopee](https://whoopee.herokuapp.com/)
 
 > A Movies Website with [vue.js](https://vuejs.org/)
 
